@@ -3,8 +3,9 @@
 Source du dataset:  https://www.kaggle.com/osmi/mental-health-in-tech-survey
 
 ## Modalités d’évaluation 
-4 compétences évaluées 
-Notation sur 20 
+- 4 compétences évaluées 
+- Notation sur 20
+ 
 ## Consignes 
 Votre analyse sous forme de Jupyter Notebook devra contenir:
 - Au moins 1 diagramme avec données continues, type nuage de point ou histogramme
